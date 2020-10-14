@@ -1,3 +1,5 @@
-rgwadmin 
-argparse 
-flask
+rgwadmin~=2.3.1
+argparse~=1.4.0
+flask~=1.1.2
+
+requests~=2.24.0
